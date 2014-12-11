@@ -15,7 +15,7 @@ Laravel Cashier is required in the composer.json file
 	},
 ```
 
-You also have to add it the the providers array in app/config/app.php 
+You also have to add it to the providers array in app/config/app.php 
 
 ```
 'Laravel\Cashier\CashierServiceProvider'
