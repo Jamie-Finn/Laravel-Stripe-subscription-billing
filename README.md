@@ -3,7 +3,7 @@ Laravel-Stripe-subscription-billing
 
 Using Laravel with Stripe for simple billing
 
-Stripe API keys and Database configuration files not included due to sensitive information contained inside(Files not included are listed in the .gitignore file).
+Stripe API keys and Database configuration files not included due to sensitive information contained inside(Files not included are listed in the .gitignore file). I also haven't altered or added any files to the vendor folder that comes with Laravel. I just didn't push it to the repository as it is not needed and comes when you install Laravel anyway.
 
 Laravel Cashier is required in the composer.json file
 ======================================================
